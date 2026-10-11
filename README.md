@@ -1,9 +1,11 @@
-# Actualizaciones de ONE
+# Aggiornamenti ONE
 
-Canal público de APK firmados. Código fuente privado.
+Canale pubblico degli APK firmati. Codice sorgente privato.
 
-[Descargar ONE 0.3.2](https://raw.githubusercontent.com/bgamonal19/ONE-kiosko-updates/main/apks/ONE-kiosko-security-0.3.2.apk)
+[Scarica ONE 0.3.3](https://raw.githubusercontent.com/bgamonal19/ONE-kiosko-updates/main/apks/ONE-kiosko-security-0.3.3.apk)
 
-Corrige el cierre al iniciar en Android 14 o superior al programar actualizaciones. Calendario arriba a la derecha y apps a la izquierda, sin desplazamiento vertical.
+Interfaccia e calendario in italiano. Calendario in alto a destra, app a sinistra, senza scorrimento verticale.
 
-Si ONE 0.3.0 o 0.3.1 no abre, instalar este APK encima sin desinstalar para conservar los ajustes. Android puede solicitar confirmación.
+Amministrazione → Cerca aggiornamenti → Installa aggiornamento. Gli aggiornamenti da 0.3.0 in poi conservano le impostazioni.
+
+La modalità chiosco richiede ONE configurato come Device Owner. L’installazione dell’APK da sola non configura il tablet come dispositivo gestito.
